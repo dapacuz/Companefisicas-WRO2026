@@ -10,7 +10,8 @@ Este repositorio contiene los materiales y proceso de construcción del vehícul
 * `video` contiene el archivo de video con una demostración de manejo
 * `schemes` contiene diagramas en formato JPEG, PNG o PDF de los componentes electromecánicos e ilustraciones de todos los elementos (componentes electrónicos y motores) utilizados en el vehículo, además de cómo se conectan entre sí.
 * `src` contiene el código de control de sodtware para todos los componentes. Fue programado en Arduino IDE.
-* `models` contiene los archivos de los modelos diseñados por nosotras en Tinkercad y utilizados por las impresoras 3D y máquinas para cortar láser con las que se fabricaron los elementos del vehículo. 
+* `models` contiene los archivos de los modelos diseñados por nosotras en Tinkercad y utilizados por las impresoras 3D y máquinas para cortar láser con las que se fabricaron los elementos del vehículo.
+* `management` contiene datos sobre la gestión de movilidad, poder, sentido, diagramas y obstáculos.
 * `other` contiene otros archivos sobre cómo se preparó el vehículo para la competencia, documentación, especificaciones, protocolos de comunicación etc.
 
 # Nuestro robot
