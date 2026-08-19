@@ -15,7 +15,7 @@ Este repositorio contiene los materiales y proceso de construcción del vehícul
 * `other` contiene otros archivos sobre cómo se preparó el vehículo para la competencia, documentación, especificaciones, protocolos de comunicación etc.
 
 # Nuestro robot
-Nuestro robot, MIGAJA, es un vehículo construido a partir de distintos competentes diseñados por nosotras para la categoría Future Engineers.
+Nuestro robot, MIGAJA, es un vehículo construido a partir de distintos componentes diseñados por nosotras para la categoría Future Engineers.
 
 # Herramientas
 * Lenguaje: C++ (Arduino IDE)
